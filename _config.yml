@@ -1,0 +1,12 @@
+title: "Making Journal"
+description: "A weekly journal for DES240: Designing with Data"
+
+# GitHub Pages uses Jekyll —  this is the minimal config needed.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Ignore files that don't need to be part of the built site
+exclude:
+  - README.md
+  - LICENSE
