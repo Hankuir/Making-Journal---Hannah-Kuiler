@@ -33,11 +33,8 @@ Again I think this fits under the data of the mundane things we do in our daily 
 
 
 ## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
 ![IMG_0927](https://raw.githubusercontent.com/Hankuir/Making-Journal---Hannah-Kuiler/refs/heads/main/assets/week-01/IMG_0927.jpeg)
-`*Your caption here*`
+`*This is the visual map of our group work in the first week. We took a very literal approach but this a sketch from the map as of what I remembered.*`
 
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
