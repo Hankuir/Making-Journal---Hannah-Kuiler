@@ -36,7 +36,7 @@ Again I think this fits under the data of the mundane things we do in our daily 
 
 *Use the format below to embed images from your assets folder:*
 
-`![IMG_0927](assets/week-01/IMG_0927.jpg)`
+`![IMG_0927](Making-Journal---Hannah-Kuiler/assets/week-01/IMG_0927.jpg)`
 `![Alt text](../assets/week-01/your-image.jpg)`
 `*Your caption here*`
 
